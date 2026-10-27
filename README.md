@@ -133,6 +133,4 @@ ggplot(faturamento_produto, aes(x = ID_Loja, y = Faturamento_Total, fill = Produ
 
 Este projeto foi desenvolvido com base na aula **[Como Sair do ZERO no R em Apenas Uma Aula!](https://www.youtube.com/watch?v=W7UtGnbBiro)** do canal **[Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)**.
 
-## 👤 Autor
 
-Seu nome - [GitHub](https://github.com/seu-usuario)
